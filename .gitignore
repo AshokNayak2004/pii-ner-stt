@@ -1,4 +1,6 @@
-out/
+out/*
+!out/dev_pred.json
+!out/stress_pred.json
 __pycache__/
 *.pyc
 .ipynb_checkpoints/

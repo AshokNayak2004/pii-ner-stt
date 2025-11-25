@@ -1,0 +1,1594 @@
+{
+  "stress_00000": [
+    {
+      "start": 28,
+      "end": 78,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 92,
+      "end": 120,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00001": [
+    {
+      "start": 35,
+      "end": 44,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 67,
+      "end": 144,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00002": [
+    {
+      "start": 22,
+      "end": 54,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00003": [
+    {
+      "start": 43,
+      "end": 73,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 81,
+      "end": 92,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00004": [
+    {
+      "start": 38,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 89,
+      "end": 119,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00005": [
+    {
+      "start": 55,
+      "end": 143,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00006": [
+    {
+      "start": 52,
+      "end": 85,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 101,
+      "end": 183,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00007": [
+    {
+      "start": 45,
+      "end": 64,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 86,
+      "end": 96,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00008": [
+    {
+      "start": 38,
+      "end": 117,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00009": [
+    {
+      "start": 49,
+      "end": 81,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 104,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00010": [
+    {
+      "start": 49,
+      "end": 82,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00011": [
+    {
+      "start": 48,
+      "end": 58,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 80,
+      "end": 85,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 86,
+      "end": 133,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00012": [
+    {
+      "start": 48,
+      "end": 71,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 79,
+      "end": 111,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00013": [
+    {
+      "start": 27,
+      "end": 60,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 80,
+      "end": 91,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 107,
+      "end": 110,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 111,
+      "end": 149,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 150,
+      "end": 160,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_00014": [
+    {
+      "start": 46,
+      "end": 79,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00015": [
+    {
+      "start": 67,
+      "end": 79,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 88,
+      "end": 99,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 113,
+      "end": 128,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 129,
+      "end": 149,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 150,
+      "end": 169,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_00016": [
+    {
+      "start": 42,
+      "end": 49,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 58,
+      "end": 112,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_00017": [
+    {
+      "start": 56,
+      "end": 66,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 86,
+      "end": 90,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 91,
+      "end": 164,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00018": [
+    {
+      "start": 66,
+      "end": 82,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 96,
+      "end": 132,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00019": [
+    {
+      "start": 38,
+      "end": 71,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00020": [
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 79,
+      "end": 89,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00021": [
+    {
+      "start": 25,
+      "end": 30,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 31,
+      "end": 107,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 132,
+      "end": 151,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 180,
+      "end": 187,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00022": [
+    {
+      "start": 27,
+      "end": 52,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00023": [
+    {
+      "start": 46,
+      "end": 57,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 78,
+      "end": 87,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 118,
+      "end": 131,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 132,
+      "end": 150,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 151,
+      "end": 170,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_00024": [
+    {
+      "start": 35,
+      "end": 38,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 107,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 129,
+      "end": 139,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00025": [
+    {
+      "start": 51,
+      "end": 62,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 93,
+      "end": 102,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00026": [
+    {
+      "start": 29,
+      "end": 40,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 70,
+      "end": 79,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_00027": [
+    {
+      "start": 56,
+      "end": 111,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_00028": [
+    {
+      "start": 50,
+      "end": 84,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 104,
+      "end": 178,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00029": [
+    {
+      "start": 53,
+      "end": 57,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 58,
+      "end": 133,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00030": [
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 82,
+      "end": 86,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 87,
+      "end": 159,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00031": [
+    {
+      "start": 47,
+      "end": 79,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 105,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00032": [
+    {
+      "start": 51,
+      "end": 83,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 114,
+      "end": 190,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00033": [
+    {
+      "start": 39,
+      "end": 76,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 98,
+      "end": 104,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00034": [
+    {
+      "start": 48,
+      "end": 54,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 73,
+      "end": 106,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 115,
+      "end": 143,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00035": [
+    {
+      "start": 39,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 82,
+      "end": 93,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 102,
+      "end": 112,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00036": [
+    {
+      "start": 58,
+      "end": 80,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00037": [
+    {
+      "start": 53,
+      "end": 90,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 102,
+      "end": 113,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00038": [
+    {
+      "start": 46,
+      "end": 57,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 81,
+      "end": 92,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 114,
+      "end": 197,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00039": [
+    {
+      "start": 52,
+      "end": 56,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 86,
+      "end": 98,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00040": [
+    {
+      "start": 45,
+      "end": 101,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_00041": [
+    {
+      "start": 38,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 46,
+      "end": 49,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 62,
+      "end": 94,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 115,
+      "end": 119,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00042": [
+    {
+      "start": 59,
+      "end": 91,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 111,
+      "end": 120,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00043": [
+    {
+      "start": 26,
+      "end": 38,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 46,
+      "end": 57,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00044": [
+    {
+      "start": 53,
+      "end": 104,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 124,
+      "end": 133,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00045": [
+    {
+      "start": 38,
+      "end": 71,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00046": [
+    {
+      "start": 35,
+      "end": 63,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 82,
+      "end": 87,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 88,
+      "end": 159,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00047": [
+    {
+      "start": 45,
+      "end": 94,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_00048": [
+    {
+      "start": 36,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00049": [
+    {
+      "start": 22,
+      "end": 26,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 27,
+      "end": 100,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 116,
+      "end": 126,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00050": [
+    {
+      "start": 42,
+      "end": 48,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 56,
+      "end": 61,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 62,
+      "end": 134,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 154,
+      "end": 164,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00051": [
+    {
+      "start": 49,
+      "end": 77,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 90,
+      "end": 169,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 178,
+      "end": 182,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00052": [
+    {
+      "start": 58,
+      "end": 64,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 65,
+      "end": 74,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 89,
+      "end": 100,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 101,
+      "end": 138,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 144,
+      "end": 176,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00053": [
+    {
+      "start": 51,
+      "end": 79,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 100,
+      "end": 133,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00054": [
+    {
+      "start": 52,
+      "end": 80,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 102,
+      "end": 179,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00055": [
+    {
+      "start": 59,
+      "end": 70,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 87,
+      "end": 99,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 123,
+      "end": 152,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00056": [
+    {
+      "start": 47,
+      "end": 81,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 108,
+      "end": 185,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00057": [
+    {
+      "start": 35,
+      "end": 41,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 55,
+      "end": 86,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00058": [
+    {
+      "start": 47,
+      "end": 58,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 64,
+      "end": 73,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_00059": [
+    {
+      "start": 44,
+      "end": 125,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00060": [
+    {
+      "start": 76,
+      "end": 108,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 117,
+      "end": 128,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00061": [
+    {
+      "start": 33,
+      "end": 116,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 134,
+      "end": 165,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00062": [
+    {
+      "start": 64,
+      "end": 89,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00063": [
+    {
+      "start": 56,
+      "end": 88,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 111,
+      "end": 115,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 127,
+      "end": 138,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00064": [
+    {
+      "start": 41,
+      "end": 65,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 89,
+      "end": 175,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 207,
+      "end": 213,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00065": [
+    {
+      "start": 40,
+      "end": 72,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 84,
+      "end": 93,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 100,
+      "end": 120,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00066": [
+    {
+      "start": 58,
+      "end": 92,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 104,
+      "end": 135,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 144,
+      "end": 153,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00067": [
+    {
+      "start": 37,
+      "end": 47,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 68,
+      "end": 72,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00068": [
+    {
+      "start": 60,
+      "end": 70,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 84,
+      "end": 88,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00069": [
+    {
+      "start": 26,
+      "end": 31,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 32,
+      "end": 106,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00070": [
+    {
+      "start": 37,
+      "end": 83,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 101,
+      "end": 110,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 116,
+      "end": 128,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_00071": [
+    {
+      "start": 66,
+      "end": 71,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 72,
+      "end": 117,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 125,
+      "end": 158,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00072": [
+    {
+      "start": 57,
+      "end": 66,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 96,
+      "end": 177,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 209,
+      "end": 219,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00073": [
+    {
+      "start": 45,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 83,
+      "end": 92,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 101,
+      "end": 156,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00074": [
+    {
+      "start": 49,
+      "end": 124,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 132,
+      "end": 144,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_00075": [
+    {
+      "start": 41,
+      "end": 75,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 91,
+      "end": 100,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00076": [
+    {
+      "start": 39,
+      "end": 50,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 80,
+      "end": 87,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00077": [
+    {
+      "start": 30,
+      "end": 111,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 138,
+      "end": 196,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00078": [
+    {
+      "start": 57,
+      "end": 81,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 108,
+      "end": 140,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00079": [
+    {
+      "start": 35,
+      "end": 39,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 114,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 129,
+      "end": 138,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00080": [
+    {
+      "start": 47,
+      "end": 58,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 82,
+      "end": 108,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00081": [
+    {
+      "start": 60,
+      "end": 89,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 109,
+      "end": 156,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 169,
+      "end": 181,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_00082": [
+    {
+      "start": 52,
+      "end": 77,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00083": [
+    {
+      "start": 40,
+      "end": 49,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 75,
+      "end": 84,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 85,
+      "end": 153,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 160,
+      "end": 181,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00084": [
+    {
+      "start": 37,
+      "end": 48,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 62,
+      "end": 67,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 68,
+      "end": 145,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 169,
+      "end": 174,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_00085": [
+    {
+      "start": 46,
+      "end": 50,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 62,
+      "end": 93,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 124,
+      "end": 156,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 157,
+      "end": 170,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 171,
+      "end": 176,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_00086": [
+    {
+      "start": 49,
+      "end": 54,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 55,
+      "end": 128,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 141,
+      "end": 165,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00087": [
+    {
+      "start": 31,
+      "end": 64,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 81,
+      "end": 161,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00088": [
+    {
+      "start": 47,
+      "end": 56,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 82,
+      "end": 106,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00089": [
+    {
+      "start": 28,
+      "end": 32,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 55,
+      "end": 67,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_00090": [
+    {
+      "start": 24,
+      "end": 50,
+      "label": "DATE",
+      "pii": true
+    },
+    {
+      "start": 66,
+      "end": 77,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_00091": [
+    {
+      "start": 49,
+      "end": 95,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 119,
+      "end": 141,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00092": [
+    {
+      "start": 48,
+      "end": 128,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 149,
+      "end": 158,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 175,
+      "end": 229,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00093": [
+    {
+      "start": 51,
+      "end": 100,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_00094": [
+    {
+      "start": 46,
+      "end": 55,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 77,
+      "end": 110,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00095": [
+    {
+      "start": 38,
+      "end": 45,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 59,
+      "end": 114,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 147,
+      "end": 227,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00096": [
+    {
+      "start": 39,
+      "end": 73,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_00097": [
+    {
+      "start": 45,
+      "end": 98,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 120,
+      "end": 197,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "stress_00098": [
+    {
+      "start": 50,
+      "end": 98,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 105,
+      "end": 117,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 123,
+      "end": 146,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_00099": [
+    {
+      "start": 25,
+      "end": 34,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 51,
+      "end": 103,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ]
+}
